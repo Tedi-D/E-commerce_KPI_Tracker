@@ -1,8 +1,8 @@
 # KPIs
 
-🔹 Project Overview
+🔹 Project Summary
 
-A Power BI dashboard designed to evaluate company performance against key financial and marketing KPIs, enabling insight-driven decision-making.
+A Power BI dashboard designed to evaluate and track key e-commerce metrics, enabling insight-driven decision-making.
 
 🔹 KPIs Defined
 - Retention Rate: % of customers retained over a time period
@@ -10,6 +10,12 @@ A Power BI dashboard designed to evaluate company performance against key financ
 - Profit Margin: Net profit as a % of revenue
 - CVR (Conversion Rate): % of leads converting into customers
 - COA (Cost of Acquisition): Cost to acquire a single customer
+
+ 🔹 Tools & Technologies
+- Power BI
+- Excel
+- DAX
+
 
 
 🔹 Key Features
@@ -21,12 +27,13 @@ A Power BI dashboard designed to evaluate company performance against key financ
 
 
 
-🔹 Technical Details
-- Data modeling: Relationships formed between traffic, customer, and product datasets to support cross-metric insights.
-- Time Intelligence: Implemented to show monthly trends for KPIs and segment revenue by product category over nearly two years.
-- User Segmentation: Enabled via slicers or filters to focus on cohorts like traffic source or product categories.
+📈 Outcomes & Business Impact
+- A centralized monitoring tool for marketing and product teams
+- Surface-level UX optimization opportunities
+- Data storytelling tool for monthly performance reviews
 
-🧭 Executive Summary
+
+🧭 Reflection & Summary
 
 
 This dashboard equips business stakeholders with insight into operational efficiency, user engagement, and product performance across key dimensions. It not only surfaces granular Cost Per Acquisition (CPA) trends but also supports high-level decision-making with revenue and retention visualisations.
