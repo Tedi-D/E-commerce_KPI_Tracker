@@ -11,10 +11,9 @@ A Power BI dashboard designed to evaluate and track key e-commerce metrics, enab
 - CVR (Conversion Rate): % of leads converting into customers
 - COA (Cost of Acquisition): Cost to acquire a single customer
 
- 🔹 Tools & Technologies
-- Power BI
-- Excel
-- DAX
+ 🔹 Tools & Technologies <br>
+![Power BI](https://img.shields.io/badge/PowerBI-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
 
 
