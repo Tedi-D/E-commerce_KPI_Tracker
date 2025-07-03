@@ -1,4 +1,5 @@
 # KPIs
+![image](https://github.com/user-attachments/assets/5c62f0dc-0482-4a69-bae0-5c186beda13f)
 
 🔹 Project Summary
 
